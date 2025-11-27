@@ -10,7 +10,6 @@ This is a project for exploring the features and capabilities of TypeScript. You
 - [Built With](#built-with)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -21,19 +20,19 @@ Follow these instructions to get a copy of the project up and running on your lo
 Make sure you have Node.js and npm installed. You will also need TypeScript.
 
 ```sh
-# Install TypeScript globally
-npm install -g typescript
+# Install TypeScript
+npm install typescript
 ```
 
 ### Installation
 
 1.  **Clone the repository**
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Murzuq/Typescript.git
     ```
 2.  **Navigate to the project directory**
     ```sh
-    cd your-repository
+    cd Typescript
     ```
 3.  **Install dependencies**
     ```sh
@@ -68,7 +67,3 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Add any acknowledgments here.
